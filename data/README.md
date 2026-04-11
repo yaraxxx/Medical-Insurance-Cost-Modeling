@@ -71,7 +71,7 @@ This dataset is used to:
 ## 📌 File Structure
 data/
 │── insurance.csv # Main dataset
-│── Data_Card.md # This file
+│── README.md # This file
 
 ---
 
