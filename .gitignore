@@ -1,0 +1,17 @@
+.DS_Store
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+*.sqlite3
+*.log
+.env
+.venv/
+venv/
+venv/*
+.env*
+.idea/
+.vscode/
+*.swp
+*.swo
+*.ipynb_checkpoints/
